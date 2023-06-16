@@ -1,0 +1,40 @@
+body{
+    margin: 20px;
+}
+
+.menu > .menu-item{
+display: flex;
+display: inline-block;
+padding: 20px;
+height: 20px;
+width: 58px;
+top: 50px;
+border-radius: undefinedpx;
+}
+
+.header{
+    display: flex;
+   
+    font-size: 70px;
+}
+.section{
+    text-align: center;
+    background-color: rgb(187, 182, 182);
+height: 700px;
+width: 1940px;
+}
+.container{
+    float: right;
+    display: flex;
+    margin-top: 150px;
+    margin: 150px;
+    font-size: 50px;
+    
+}
+
+
+
+ 
+
+
+
