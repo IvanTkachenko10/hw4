@@ -2,6 +2,19 @@ body{
     margin: 20px;
 }
 
+
+    .header {
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+        padding-top: 20px;
+    }
+
+.imgg{
+    height:70px;
+    width: 500px;
+}   
+
 .menu > .menu-item{
 display: flex;
 display: inline-block;
@@ -12,25 +25,74 @@ top: 50px;
 border-radius: undefinedpx;
 }
 
-.header{
-    display: flex;
-   
-    font-size: 70px;
-}
+
+
 .section{
     text-align: center;
     background-color: rgb(187, 182, 182);
 height: 700px;
 width: 1940px;
+font-size: 50px;
 }
-.container{
-    float: right;
+
+
+.secondSection {
     display: flex;
-    margin-top: 150px;
-    margin: 150px;
-    font-size: 50px;
-    
+    justify-content: center;
+    align-items: center;
 }
+
+.paragraph {
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase;
+    max-width: 800px;
+    color: #000000;
+}
+
+.container2{
+    background-image:url(./img.png);
+    position: relative;
+}
+
+.container2 h2{
+
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 140%;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    max-width: 1030px;
+    padding: 200px;
+    color: #000000;
+}
+.Section4 {
+    display: flex;
+    justify-content: center;
+}
+.sneakers3 {
+    margin-right: 140px;
+}
+.text {
+    max-width: 500px;
+}
+.firstParagraph {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 140%;
+    color: #000000;
+}
+.secondParagraph {
+    font-weight: 400;
+font-size: 24px;
+line-height: 160%;
+color: #000000;
+}
+
+
+    
+
 
 
 
