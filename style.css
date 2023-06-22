@@ -31,7 +31,7 @@ border-radius: undefinedpx;
     text-align: center;
     background-color: rgb(187, 182, 182);
 height: 700px;
-width: 1940px;
+
 font-size: 50px;
 }
 
@@ -40,6 +40,7 @@ font-size: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-block: 100px;
 }
 
 .paragraph {
@@ -51,25 +52,23 @@ font-size: 50px;
     color: #000000;
 }
 
-.container2{
-    background-image:url(./img.png);
-    position: relative;
-}
 
-.container2 h2{
 
+.container2 {
+background-color: #077d46;
     font-weight: 400;
     font-size: 56px;
-    line-height: 140%;
+    
     letter-spacing: 0.04em;
-    text-transform: uppercase;
-    max-width: 1030px;
-    padding: 200px;
+
+    
+    padding: 100px;
     color: #000000;
 }
 .Section4 {
     display: flex;
     justify-content: center;
+    margin-top:100px;
 }
 .sneakers3 {
     margin-right: 140px;
